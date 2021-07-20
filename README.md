@@ -1,4 +1,4 @@
-### Hi I am Murugan Kannan 👋
+### Hi, I am Murugan Kannan 👋
 
 I am a full stack developer from India, High level experience in full stack development and cloud knowledge, producing quality work.
 
