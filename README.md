@@ -1,3 +1,4 @@
+<!-- ABOUT : START -->
 ### Hi, I am Murugan Kannan 👋
 
 I am a full stack developer from India, High level experience in full stack development and cloud knowledge, producing quality work.
@@ -8,8 +9,9 @@ I am a full stack developer from India, High level experience in full stack deve
 - 📚 Ask me about full stack development(java, html, angular, spring, j2ee, javascript).
 - 📖 Read my blogs on [here](https://murugan-kannan.blogspot.com/)
 - ⚡ Fun fact: Chess, Movie
-
+<!-- ABOUT : END -->
   
+<!-- CONNECT : START --> 
 ### Connect with me:
 <br />
 
@@ -18,7 +20,9 @@ I am a full stack developer from India, High level experience in full stack deve
 [<img align="left" alt="Murugan Kannan | LinkedIn" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />][linkedin]
 
 <br />
+<!-- CONNECT : END --> 
 
+<!-- LANGUAGES : START --> 
 ### Languages and Tools:
 <br/>
 
@@ -50,6 +54,7 @@ I am a full stack developer from India, High level experience in full stack deve
 [<img align="left" alt="windows" width="58px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][windows]
 [<img align="left" alt="typescript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 
+<!-- LANGUAGES : END --> 
 
 [website]: https://murugankannan.com
 [twitter]: https://twitter.com/murugan_kannan_
