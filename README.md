@@ -13,7 +13,7 @@ I am a full stack developer from India, High level experience in full stack deve
 ### Connect with me:
 
 [<img align="left" alt="murugankannan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Murugan Kannan / Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Murugan Kannan / Twitter" width="22px" src="https://icons.getbootstrap.com/assets/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Murugan Kannan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
