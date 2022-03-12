@@ -1,7 +1,8 @@
 <!-- ABOUT : START -->
 ### Hi, I am Murugan Kannan 👋
 
-[![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)](https://murugankannan.com/)
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fmurugankannan.com%2F)][website]
+[![linkedin](https://img.shields.io/twitter/follow/murugan_kannan_?style=social)][linkedin]
 
 I am a full stack developer from India, High level experience in full stack development and cloud knowledge, producing quality work.
 
@@ -9,7 +10,7 @@ I am a full stack developer from India, High level experience in full stack deve
 - 🌱 I’m currently diving deep into Angular, Kubernetes, OpenShift, etc(DevOps Tools)
 - 👨‍💻 I’m looking to collaborate on backend engineering projects
 - 📚 Ask me about full stack development(java, html, angular, spring, j2ee, javascript).
-- 📖 Read my blogs on [here](https://murugan-kannan.blogspot.com/)
+- 📖 Read my blogs on [![Medium Badge](http://img.shields.io/badge/-Murugan%20Kannan-1ca0f1?style=social&logo=medium&logoColor=black&link=https://murugan-kannan.medium.com/)][medium] and [![Blog Badge](http://img.shields.io/badge/-Murugan%20Kannan-1ca0f1?style=social&logo=blogger&logoColor=orange&link=https://murugan-kannan.blogspot.com/)][blogpost]
 - ⚡ Fun fact: Chess, Movie
 <!-- ABOUT : END -->
   
@@ -74,9 +75,12 @@ I am a full stack developer from India, High level experience in full stack deve
 
 <!-- LANGUAGES : END --> 
 
+[medium]: https://murugan-kannan.medium.com/
+[blogpost]: https://murugan-kannan.blogspot.com/
 [website]: https://murugankannan.com
 [twitter]: https://twitter.com/murugan_kannan_
 [linkedin]: https://www.linkedin.com/in/murugan-kannan/
+[github]: https://github.com/murugan-kannan
 [bootstrap]: https://getbootstrap.com/
 [angular]:  https://angular.io/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -98,4 +102,4 @@ I am a full stack developer from India, High level experience in full stack deve
 [windows]: https://www.microsoft.com/en-in/windows
 [spring]: https://spring.io/
 [typescript]: https://www.typescriptlang.org/
-[github]: https://github.com/murugan-kannan
+
